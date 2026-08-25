@@ -1,4 +1,4 @@
-\# 🎮 Admin Yönetim Paneli
+\#  Admin Yönetim Paneli
 
 
 
@@ -10,7 +10,7 @@ Bu çalışma, benim \*\*ilk Python projem\*\* olup, yazılım geliştirme süre
 
 
 
-\## 🚀 Temel Özellikler
+\##  Temel Özellikler
 
 
 
@@ -32,7 +32,7 @@ Bu çalışma, benim \*\*ilk Python projem\*\* olup, yazılım geliştirme süre
 
 
 
-\## 🛠️ Teknoloji Yığını
+\##  Teknoloji Yığını
 
 
 
@@ -52,7 +52,7 @@ Bu çalışma, benim \*\*ilk Python projem\*\* olup, yazılım geliştirme süre
 
 
 
-\## 📋 Önkoşullar
+\##  Önkoşullar
 
 
 
@@ -74,7 +74,7 @@ Uygulamayı çalıştırmadan önce sisteminizde şunların kurulu olduğundan e
 
 
 
-⚙️ Kurulum ve Yapılandırma
+ Kurulum ve Yapılandırma
 
 Veritabanı Kurulumu:
 
@@ -128,7 +128,7 @@ VT\_AYAR değişkenini kendi sunucu bilgilerinizle güncelleyin:
 
 
 
-\## 🏗️ Proje Yapısı
+\##  Proje Yapısı
 
 
 
