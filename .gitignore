@@ -1,0 +1,13 @@
+# Python önbellek ve derleme dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Sanal ortam (varsa)
+venv/
+.venv/
+env/
+
+# Editör/IDE
+.vscode/
+.idea/
